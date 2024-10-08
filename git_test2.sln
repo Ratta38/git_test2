@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "git_test2", "git_test2.vcxproj", "{70C40530-F2FE-4F90-B067-DC608F5520A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C40530-F2FE-4F90-B067-DC608F5520A1}.Debug|x64.ActiveCfg = Debug|x64
+		{70C40530-F2FE-4F90-B067-DC608F5520A1}.Debug|x64.Build.0 = Debug|x64
+		{70C40530-F2FE-4F90-B067-DC608F5520A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{70C40530-F2FE-4F90-B067-DC608F5520A1}.Debug|x86.Build.0 = Debug|Win32
+		{70C40530-F2FE-4F90-B067-DC608F5520A1}.Release|x64.ActiveCfg = Release|x64
+		{70C40530-F2FE-4F90-B067-DC608F5520A1}.Release|x64.Build.0 = Release|x64
+		{70C40530-F2FE-4F90-B067-DC608F5520A1}.Release|x86.ActiveCfg = Release|Win32
+		{70C40530-F2FE-4F90-B067-DC608F5520A1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAC62BC3-241D-4E2B-B563-24E244B32F62}
+	EndGlobalSection
+EndGlobal
